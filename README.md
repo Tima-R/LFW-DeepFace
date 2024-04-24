@@ -14,5 +14,11 @@ The project was developed and run using Google Colab, ensuring access to high co
 
 To install necessary libraries, run:
 ```bash
-!pip install deepface
+!pip install numpy
+!pip install pandas
+!pip install matplotlib
+!pip install opencv-python
+!pip install scikit-learn
 !pip install tensorflow
+!pip install keras  
+!pip install deepface
