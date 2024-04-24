@@ -8,7 +8,7 @@ The entire development and testing were conducted in Google Colab to utilize enh
 ## Environment Setup
 The project was developed and run using Google Colab, ensuring access to high computational power necessary for training deep learning models. Below are the key dependencies required:
 
-- **Python 3.7+**
+- **Python 3.10.12**
 - **DeepFace Library**
 - **TensorFlow 2.x**
 
