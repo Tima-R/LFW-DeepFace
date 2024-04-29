@@ -1,8 +1,8 @@
 # Defending DeepFace Facial Recognition on the LFW Dataset Against FGSM Adversarial Attacks Through Adversarial Training
 
 ## Project Overview
-This repository hosts the implementation of a defense mechanism for the DeepFace facial recognition system, particularly targeted at enhancing its resilience against adversarial attacks generated using the Fast Gradient Sign Method (FGSM). 
-Utilizing the Labeled Faces in the Wild (LFW) dataset, the project employs adversarial training techniques to improve system robustness. 
+This repository hosts the project focuses on enhancing the robustness of the DeepFace facial recognition system against adversarial attacks generated using the Fast Gradient Sign Method (FGSM).
+Utilizing the Labeled Faces in the Wild (LFW) dataset, this work involves applying adversarial training techniques to improve the system's defenses, assessing the impact through rigorous evaluation metrics.
 The entire development and testing were conducted in Google Colab to utilize enhanced computational resources, such as GPUs.
 
 ## Environment Setup
