@@ -7,7 +7,6 @@ The entire development and testing were conducted in Google Colab to utilize enh
 
 ## Clone the repository:
 git clone https://github.com/Tima-R/LFW-DeepFace.git
-cd defense-deepface-fgsm
 
 ## Environment Setup
 The project was developed and run using Google Colab, ensuring access to high computational power necessary for training deep learning models. Below are the key dependencies required:
