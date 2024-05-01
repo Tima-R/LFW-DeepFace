@@ -34,7 +34,7 @@ To install necessary libraries, run:
 
 ## Results
 Here are some results from our experiments:
-- **Baseline Accuracy:** 0.4612%
-- **Accuracy Under FGSM Attack:** 0.4612%
-- **Accuracy with Defense:** 0.4612%
+- **Baseline Accuracy:** 46.12%
+- **Accuracy Under FGSM Attack:** 46.12%
+- **Accuracy with Defense:** 46.12%
 
