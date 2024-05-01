@@ -1,0 +1,26 @@
+defending_deepface/
+├── docs/
+│   └── README.md                 # Documentation about the project
+├── examples/
+│   └── example_usage.py          # Example script for using the model
+├── src/
+│   ├── __init__.py               # Marks the src directory as a Python package
+│   ├── dataset.py                # Dataset loading and preprocessing
+│   ├── model.py                  # Model architecture and building functions
+│   ├── training.py               # Model training and adversarial training logic
+│   ├── attacks.py                # Functions for FGSM attack generation
+│   ├── evaluation.py             # Evaluation framework
+│   └── utils.py                  # Helper functions
+├── tests/
+│   ├── __init__.py               # Marks the tests directory as a Python package
+│   ├── test_dataset.py           # Tests for dataset loading and preprocessing
+│   ├── test_model.py             # Tests for model architecture and building
+│   ├── test_training.py          # Tests for training logic
+│   ├── test_attacks.py           # Tests for FGSM attack functions
+│   └── test_evaluation.py        # Tests for evaluation functions
+├── .gitignore                    # Specifies files to be ignored by Git
+├── LICENSE.txt                   # License for the project
+├── README.md                     # Main documentation and description of the project
+├── requirements.txt              # List of dependencies
+├── setup.py                      # Python package setup script
+└── tox.ini                       # Configuration for testing automation (tox)
