@@ -7,14 +7,7 @@ LFW-DeepFace/
 │   ├── Training-Configuration.py                         # Model training and adversarial training logic
 │   ├── Adversarial-Attack-Generation.py                  # Functions for FGSM attack generation
 │   ├── Defense-Mechanism.py                              # Function for defense mechanism
-│   ├── Evaluation-Framework.py                           # Evaluation framework    
-├── tests/
-│   ├── __init__.py               # Marks the tests directory as a Python package
-│   ├── test_dataset.py           # Tests for dataset loading and preprocessing
-│   ├── test_model.py             # Tests for model architecture and building
-│   ├── test_training.py          # Tests for training logic
-│   ├── test_attacks.py           # Tests for FGSM attack functions
-│   └── test_evaluation.py        # Tests for evaluation functions        
-├── README.md                     # Main documentation and description of the project
+│   ├── Evaluation-Framework.py                           # Evaluation framework         
+├── README.md                                             # Main documentation and description of the project
 
 
