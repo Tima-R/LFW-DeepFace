@@ -38,3 +38,11 @@ Here are some results from our experiments:
 - **Accuracy Under FGSM Attack:** 46.12%
 - **Accuracy with Defense:** 46.12%
 
+## Conclusion
+Key findings from this project reveal the DeepFace model's consistent performance under various conditions, including baseline scenarios, FGSM attacks, and post-defense environments. The model maintained an accuracy rate of 0.4612 across all scenarios, highlighting its potential for resilience against adversarial attacks.
+
+Despite these promising outcomes, several limitations were identified. These include the need for a more diverse dataset to improve model generalizability, the exploration of varied adversarial techniques to better understand the vulnerabilities of facial recognition systems, and optimization of the training process for better performance.
+
+This research establishes a foundational framework for the critical importance of robust adversarial defenses in facial recognition systems. It highlights the pressing need for continued research into enhancing model robustness and security in the face of evolving adversarial threats.
+
+
