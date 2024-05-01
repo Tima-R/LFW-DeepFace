@@ -14,10 +14,7 @@ LFW-DeepFace/
 │   ├── test_model.py             # Tests for model architecture and building
 │   ├── test_training.py          # Tests for training logic
 │   ├── test_attacks.py           # Tests for FGSM attack functions
-│   └── test_evaluation.py        # Tests for evaluation functions
-├── .gitignore                    # Specifies files to be ignored by Git
-├── LICENSE.txt                   # License for the project
+│   └── test_evaluation.py        # Tests for evaluation functions        
 ├── README.md                     # Main documentation and description of the project
-├── requirements.txt              # List of dependencies
-├── setup.py                      # Python package setup script
-└── tox.ini                       # Configuration for testing automation (tox)
+
+
