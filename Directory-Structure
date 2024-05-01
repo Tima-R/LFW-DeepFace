@@ -1,16 +1,13 @@
-defending_deepface/
+LFW-DeepFace/
 ├── docs/
-│   └── README.md                 # Documentation about the project
-├── examples/
-│   └── example_usage.py          # Example script for using the model
+│   └── README.md                                         # Documentation about the project
 ├── src/
-│   ├── __init__.py               # Marks the src directory as a Python package
-│   ├── dataset.py                # Dataset loading and preprocessing
-│   ├── model.py                  # Model architecture and building functions
-│   ├── training.py               # Model training and adversarial training logic
-│   ├── attacks.py                # Functions for FGSM attack generation
-│   ├── evaluation.py             # Evaluation framework
-│   └── utils.py                  # Helper functions
+│   ├── Environment-Setup-and-Model-Implementation.py     # Environment setup
+│   ├── Loading-the-LFW-Dataset.py                        # Dataset loading and preprocessing
+│   ├── Training-Configuration.py                         # Model training and adversarial training logic
+│   ├── Adversarial-Attack-Generation.py                  # Functions for FGSM attack generation
+│   ├── Defense-Mechanism.py                              # Function for defense mechanism
+│   ├── Evaluation-Framework.py                           # Evaluation framework    
 ├── tests/
 │   ├── __init__.py               # Marks the tests directory as a Python package
 │   ├── test_dataset.py           # Tests for dataset loading and preprocessing
