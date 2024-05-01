@@ -25,10 +25,12 @@ To install necessary libraries, run:
 !pip install tensorflow
 !pip install keras  
 !pip install deepface
+```
 
 ## Test/Train Data shape
 - **Shape of x_train: (1030, 152, 152, 3)
 - **Shape of x_test: (258, 152, 152, 3)
+
 
 ## Results
 Here are some results from our experiments:
